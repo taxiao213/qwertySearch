@@ -70,3 +70,5 @@
 	            this.setText(baseText);
 	        }  
 	    }
+
+>通过bean设置进去需要改变的字体颜色，在adapter中更新
